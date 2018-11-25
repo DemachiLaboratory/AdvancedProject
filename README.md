@@ -35,9 +35,13 @@ conda install opencv
 ```
 #### 1.4 Python開発環境
 - Jupyter notebook 
-(`conda install jupyter notebook` )
+```
+conda install jupyter notebook
+```
 - Spyder 
-(`conda install spyder`)
+```
+conda install spyder
+```
 - Visual Studio Code 
 (https://code.visualstudio.com/)
 - その他テキストエディタなど
