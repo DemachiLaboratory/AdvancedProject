@@ -45,4 +45,4 @@ conda install spyder
 - Visual Studio Code 
 (https://code.visualstudio.com/)
 - その他テキストエディタなど
-Jupyter notebookがおすすめです。
+<br/>Jupyter notebookがおすすめです。
