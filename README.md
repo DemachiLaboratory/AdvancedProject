@@ -26,12 +26,7 @@ source activate your_env_name
 ```
 - 次のコマンドを実行し、OpenCVをインストールする：
 ```
-pip install opencv-python
-```
-Mac OSとLinux の場合は：
-```
-conda config --add channels conda-forge
-conda install opencv
+conda install -c menpo opencv
 ```
 #### 1.4 Python開発環境
 - Jupyter notebook 
